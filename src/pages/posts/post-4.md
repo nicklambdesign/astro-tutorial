@@ -6,6 +6,6 @@ description: "This post will show up on its own!"
 imageUrl: "https://docs.astro.build/default-og-image.png"
 imageAlt: "The word astro against an illustration of planets and stars."
 pubDate: 2022-08-08
-tags: ["astro", "successes"]
+tags: ["astro", "successes", "nick"]
 ---
 This post should show up with my other blog posts, because `Astro.glob()` is returning a list of all my posts in order to create my list.
